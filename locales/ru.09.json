@@ -1,0 +1,15 @@
+{
+  "OK": "ОК",
+  "Do not wrap lines": "Не переносить строки",
+  "Copy value": "Копировать значение",
+  "Copy JSON": "Копировать JSON",
+  "Copy property path": "Копировать путь свойства",
+  "Copy pretty JSON": "Копировать форматированный JSON",
+  "Copy compact JSON": "Копировать компактный JSON",
+  "{action}; right-click for copy options": "{action}; правый щелчок — параметры копирования",
+  "Submitting…": "Отправка…",
+  "DSH Local Build": "Локальная сборка DSH",
+  "Default workspace": "Рабочая область по умолчанию",
+  "Truncated": "Обрезано",
+  "… truncated at {total} characters": "… обрезано на {total} символах"
+}
